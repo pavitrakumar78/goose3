@@ -42,7 +42,7 @@ Setup
 .. code-block::
 
     mkvirtualenv --no-site-packages goose
-    git clone https://github.com/grangier/python-goose.git
+    git clone https://github.com/goose3/goose3.git
     cd python-goose
     pip install -r requirements.txt
     python setup.py install
